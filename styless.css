@@ -1,0 +1,19 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+.tarjeta{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 50px;
+    max-width: 600px;
+}
+.heart {
+    color: #e91e63;
+    font-size: 2rem;
+    animation: pulse 1.5s infinite;
+}
+
+
