@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "nombre": "Armaf Club de Nuit Urban Elixir EDP 105ml para Hombre Spray",
+        "categoria": "perfume",
+        "precio": 239900,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 1.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .1.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Perfume Shaheen Gold Lattafa Volumen de la unidad 100 mL",
+        "categoria": "perfume",
+        "precio": 173499,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 2.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .2.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Perfume Lattafa Bade'e Al Oud For Glory EDP 100 mL",
+        "categoria": "perfume",
+        "precio": 137013,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 3.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .3.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Maison Alhambra Expose Blanc - mL",
+        "categoria": "perfume",
+        "precio": 134900,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 4.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .4.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Perfume Mujer Giorgio Beverly Hills Red 90 mL Eau de toilette",
+        "categoria": "perfume",
+        "precio": 139900,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 5.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .5.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Perfume Escape Calvin Klein para dama 100ml EDP",
+        "categoria": "perfume",
+        "precio": 174000,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 6.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .6.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "Perfume Montblanc Emblem 100 Ml Eau De Toilette para hombre",
+        "categoria": "perfume",
+        "precio": 249000,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 7.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .7.webp"
+    },
+    {
+        "id": 8,
+        "nombre": "Armaf Club de Nuit Sillage EDP 105ml para hombre",
+        "categoria": "perfume",
+        "precio": 190000,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 8.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfume .8.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "Perfume Lattafa Qaa'ed Edp Para Hombre Y Mujer 100 Ml",
+        "categoria": "perfume",
+        "precio": 111699,
+        "color": "sin definir",
+        "imagen": "assets/imagenes/imagen de brochas/perfume 9.webp",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/perfueme .9.webp"
+    },
+    {
+        "nombre": "Serum Contorno de Ojos Revitalift L'Oreal Paris 20ml",
+        "precio": "$61.285",
+        "imagen": "assets/imagenes/imagen de brochas/facial 1.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .1.webp"
+    },
+    {
+        "nombre": "Gel Limpiador Anti-Imperfecciones Express Aclara Garnier 200ml",
+        "precio": "$38.236",
+        "imagen": "assets/imagenes/imagen de brochas/facial 2.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .2.webp"
+    },
+    {
+        "nombre": "Serum Cerave Retinol Anti-marcas Con 3 Ceramidas 30ml",
+        "precio": "$87.249",
+        "imagen": "assets/imagenes/imagen de brochas/facial 3.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .3.webp"
+    },
+    {
+        "nombre": "Sérum Anti Manchas Express Aclara Vitamina C Garnier 30 m",
+        "precio": "$19.900",
+        "imagen": "assets/imagenes/imagen de brochas/facial 4.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .4.webp"
+    },
+    {
+        "nombre": "Serum Nivea Cellular Luminous Anti-imp - mL",
+        "precio": "$15.900",
+        "imagen": "assets/imagenes/imagen de brochas/facial 5.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .5.webp"
+    },
+    {
+        "nombre": "Molde Silicona Hielo Facial - mL Tipo de piel Todo tipo de piel",
+        "precio": "$65.900",
+        "imagen": "assets/imagenes/imagen de brochas/facial 6.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facaial .6.webp"
+    },
+    {
+        "nombre": "Serum Antimanchas Glycolic Bright L'Oreal Paris 30ml",
+        "precio": "$20.900",
+        "imagen": "assets/imagenes/imagen de brochas/facial 7.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .7.webp"
+    },
+    {
+        "nombre": "La Roche Posay Effaclar Sérum Ultra Concentrado Para Piel Grasa 30 Ml",
+        "precio": "$19.900",
+        "imagen": "assets/imagenes/imagen de brochas/facial 8.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .8.webp"
+    },
+    {
+        "nombre": "Gel Aloe Vera Bacc Sábila Hidrata Humect - mL Tipo de piel Todo tipo de piel",
+        "precio": "$65.000",
+        "imagen": "assets/imagenes/imagen de brochas/facial 9.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/facial .9.webp"
+    },
+    {
+        "nombre": "Maquillaje Set Brochas De Lujo Fairy Light Bh Color Rosa",
+        "precio": 11900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas.1.webp",
+        "color": "rosa",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas 1.webp"
+    },
+    {
+        "nombre": "Brochas Maquillaje 12 Und Set",
+        "precio": 19900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 2.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .2.webp"
+    },
+    {
+        "nombre": "Juego De 24 Brochas Pincel De Maquillaje",
+        "precio": 19900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 3.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .3.webp"
+    },
+    {
+        "nombre": "Kit Profesional Brocha Atenea",
+        "precio": 19900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 4.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .4.webp"
+    },
+    {
+        "nombre": "Kit De 3 Brochas Profesionales - Unidad a $5300",
+        "precio": 15900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 5.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .5.webp"
+    },
+    {
+        "nombre": "Kit Brochas Profesional 10 Unid - Unidad a $6590",
+        "precio": 65900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 6.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .6.webp"
+    },
+    {
+        "nombre": "Anik Pincel Para Ojos 5 Piezas",
+        "precio": 20900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 7.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .7.webp"
+    },
+    {
+        "nombre": "Organizador De Brochas Trendy",
+        "precio": 19900,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 8.webp",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .8.webp"
+    },
+    {
+        "nombre": "12 Set De Brochas Maquillaje Completas Para Principiantes Color Rosa",
+        "precio": 65000,
+        "imagen": "assets/imagenes/imagen de brochas/imagen de brochas 9.webp",
+        "color": "rosa",
+        "imagenSecundaria":"assets/imagenes/imagen de brochas/imagen de brochas .9.webp"
+    },
+    {
+        "nombre": "combo 1",
+        "precio": 239900,
+        "imagen": "assets/imagenes/combos/combo1.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo1_1.png"
+    },
+    {
+        "nombre": "combo 2",
+        "precio": 173499,
+        "imagen": "assets/imagenes/combos/combo2.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo2_1.png"
+    },
+    {
+        "nombre": "combo 3",
+        "precio": 137013,
+        "imagen": "assets/imagenes/combos/combo3.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo3_1.png"
+    },
+    {
+        "nombre": "combo 4",
+        "precio": 134900,
+        "imagen": "assets/imagenes/combos/combo4.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo4_1.png"
+    },
+    {
+        "nombre": "combo 5",
+        "precio": 139900,
+        "imagen": "assets/imagenes/combos/combo5.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo5_1.png"
+    },
+    {
+        "nombre": "combo 6",
+        "precio": 174000,
+        "imagen": "assets/imagenes/combos/combo6.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo6.png"
+    },
+    {
+        "nombre": "combo 7",
+        "precio": 249000,
+        "imagen": "assets/imagenes/combos/combo1.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo1_1.png"
+    },
+    {
+        "nombre": "combo 8",
+        "precio": 190000,
+        "imagen": "assets/imagenes/combos/combo2.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo2_1.png"
+    },
+    {
+        "nombre": "combo 9",
+        "precio": 111699,
+        "imagen": "assets/imagenes/combos/combo3.png",
+        "color": "sin especificar",
+        "imagenSecundaria":"assets/imagenes/combos/combo3_1.png"
+    }
+]
